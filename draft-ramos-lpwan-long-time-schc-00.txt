@@ -26,7 +26,7 @@ author:
   street: 1137A Avenue des Champs Blancs
   city: 35510 Cesson-Sevigne Cedex
   country: France
-  email: ana@ackl.io
+  email: Ana@ackl.io
 normative:  
 		  
   
