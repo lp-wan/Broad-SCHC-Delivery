@@ -1,7 +1,7 @@
 ---
 stand_alone: true
 ipr: trust200902
-docname: draft-ietf-lpwan-schc-over-nbiot-06
+docname: draft-ramos-lpwan-long-time-schc-00
 cat: info
 pi:
   symrefs: 'yes'
@@ -9,8 +9,8 @@ pi:
   strict: 'yes'
   compact: 'yes'
   toc: 'yes'
-title: SCHC over NB-IoT
-abbrev: SCHC NB-IoT
+title: long time SCHC
+abbrev: LG SCHC
 wg: lpwan Working Group
 author:
 - ins: E. Ramos
@@ -28,9 +28,6 @@ author:
   country: France
   email: ana@ackl.io
 normative:  
-  RFC8376:
-  RFC8724:
-  RFC5795:
 		  
   
 --- abstract
